@@ -3,7 +3,7 @@
 
 from cbozey: <button onclick="window.location.href='https://cbozeyboy199.github.io'">open</button>
 
-      </div>
+ </div>
       <div class="description noborders">
         <span>Profile URL address</span><br/>
         <div class="fluid">
