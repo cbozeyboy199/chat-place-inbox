@@ -1,4 +1,1 @@
-# chat-place-inbox 
-<button onclick="window.location.href='https://cbozeyboy199.github.io/chat-place/'">back to chat</button>
-
-from cbozey: <button onclick="window.location.href='https://cbozeyboy199.github.io'">open</button>
+<h1> bypass hub is all up to date</h1>
